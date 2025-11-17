@@ -106,27 +106,27 @@
 ### 🔬 Thesis Project – Ordinal SDoMH Prediction with LLMs  
 Multi-label ordinal classification on opioid-related clinical notes using Clinical Longformer, DeepSeek 8B, and CORN heads.  
 `NLP` `Healthcare` `Transformers` `Explainability`  
-🔗 [github.com/AmiRaGaL/SDoMH-Ordinal-LLM](https://www.proquest.com/docview/3257712907?sourcetype=Dissertations%20&%20Theses)
+🔗 [SDoMH-Ordinal-LLM](https://www.proquest.com/docview/3257712907?sourcetype=Dissertations%20&%20Theses)
 
 ### ⚡ PulseGuard – Predictive System Failure Monitoring  
 AIOps platform using LSTM + Prophet anomaly detection, AWS SNS alerts, Streamlit dashboards, and Grafana.  
 `Time Series` `AIOps` `MLOps`  
-🔗 github.com/AmiRaGaL/PulseGuard
+🔗 [github.com/AmiRaGaL/PulseGuard](https://github.com/AmiRaGaL/PulseGuard)
 
 ### 🧠 PRisma – AI Code Review Assistant  
 Inline PR review powered by DeepSeek-Coder and GitHub Actions using LangChain pipelines.  
 `DevTools` `LLM` `GitHub Actions`  
-🔗 github.com/AmiRaGaL/PRisma
+🔗 [github.com/AmiRaGaL/PRisma](https://github.com/AmiRaGaL/PRisma)
 
 ### 📚 Watermark Faculty Automation (UML Dean’s Office)  
 Automates AACSB/WMS data ingestion using Python, Selenium, GPT formatting, and dashboards.  
 `RPA` `ETL`  
-🔗 github.com/AmiRaGaL/Watermark-Faculty-Automation
+🔗 PRIVATE REPO
 
 ### 🤖 Personal AI Knowledge Assistant  
 Local-first RAG system indexing PDFs, notes, and personal documents using Chroma + LangChain.  
 `RAG` `AI Assistant`  
-🔗 github.com/AmiRaGaL/Personal-AI-Knowledge-Assistant
+🔗 [github.com/AmiRaGaL/Personal-AI-Knowledge-Assistant](https://github.com/AmiRaGaL/MindVault.git)
 
 ---
 
