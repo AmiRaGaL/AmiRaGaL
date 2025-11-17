@@ -106,7 +106,7 @@
 ### 🔬 Thesis Project – Ordinal SDoMH Prediction with LLMs  
 Multi-label ordinal classification on opioid-related clinical notes using Clinical Longformer, DeepSeek 8B, and CORN heads.  
 `NLP` `Healthcare` `Transformers` `Explainability`  
-🔗 github.com/AmiRaGaL/SDoMH-Ordinal-LLM
+🔗 [github.com/AmiRaGaL/SDoMH-Ordinal-LLM](https://www.proquest.com/docview/3257712907?sourcetype=Dissertations%20&%20Theses)
 
 ### ⚡ PulseGuard – Predictive System Failure Monitoring  
 AIOps platform using LSTM + Prophet anomaly detection, AWS SNS alerts, Streamlit dashboards, and Grafana.  
