@@ -1,139 +1,71 @@
-<!-- PROFILE DASHBOARD -->
+# Hi, I am Deva Sai Kumar Bheesetti
+
+Software Engineer focused on backend, full-stack, data, and AI-enabled product development. I build practical systems using TypeScript, Python, NestJS, React, React Native, AWS, PostgreSQL, MongoDB, Docker, and modern AI tools.
+
+My work connects production software engineering with data and AI. I have built RAG applications, healthcare NLP pipelines, trust and safety workflows, data dashboards, automation systems, and mobile product features.
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=800&center=true&vCenter=true&width=750&lines=Deva+Sai+Kumar+Bheesetti;AI+Engineer+%7C+ML+Engineer+%7C+Full-Stack+Developer;Pega+Decisioning+%7C+Healthcare+NLP+%7C+MLOps" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/AmiRaGaL">
-    <img src="https://img.shields.io/github/followers/AmiRaGaL?label=Followers&style=flat-square" />
-  </a>
-  <a href="https://github.com/AmiRaGaL?tab=repositories">
-    <img src="https://img.shields.io/github/stars/AmiRaGaL?affiliations=OWNER&style=flat-square" />
-  </a>
-  <a href="https://www.linkedin.com/in/deva-sai-kumar-bheesetti-34380812b">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" />
-  </a>
   <a href="https://portfolio-deva-sai.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Live-green?style=flat-square&logo=vercel" />
   </a>
+  <a href="https://www.linkedin.com/in/deva-sai-kumar-bheesetti-34380812b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="mailto:devasai1259@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" />
+  </a>
 </p>
 
----
+## What I build
 
-## 🧭 At a Glance
+- Backend and full-stack products with TypeScript, NestJS, Node.js, React, Next.js, PostgreSQL, and MongoDB
+- AI applications with RAG, LLMs, embeddings, vector search, citations, refusals, and evaluation workflows
+- Data science and analytics workflows with Python, SQL, pandas, scikit-learn, Tableau, Power BI, and Streamlit
+- Cloud and deployment pipelines using AWS, Docker, GitHub Actions, Vercel, Render, and Supabase
+- Healthcare NLP and explainable AI pipelines using PyTorch, Hugging Face, Clinical Longformer, Captum, and LIME
 
-- Master of Computer Science at UMass Lowell  
-- AI Engineer + ML Engineer with strong focus on LLMs  
-- Healthcare NLP, ordinal modeling, and predictive systems  
-- Experience in Pega Decisioning, automation, and backend engineering  
-- Enthusiastic about AI infrastructure, RAG, and intelligent platforms
+## Featured projects
 
----
+| Project | Focus | Stack | Links |
+| --- | --- | --- | --- |
+| Support RAG Evaluator | RAG retrieval, grounded answers, citations, refusal behavior, query logs, eval runs, and dashboard analytics | NestJS, Next.js, PostgreSQL, pgvector, Prisma, Docker | [Live](https://support-rag-evaluator.vercel.app/) / [Repo](https://github.com/AmiRaGaL/support-rag-evaluator) |
+| TrustOps Platform | Trust and safety operations with multi-tenant RBAC, moderation queues, report assignment, internal notes, and audit logs | NestJS, Next.js, PostgreSQL, Prisma, JWT, Docker | [Live](https://trustops-platform-web.vercel.app/) / [Repo](https://github.com/AmiRaGaL/trustops-platform) |
+| VitaScan | AI health triage, symptom intake, RAG-based guidance, contextual chat, red-flag handling, and health profiles | Next.js, React Native, NestJS, Supabase, PostgreSQL, pgvector, LangChain | [Live](https://vitascan-web-rho.vercel.app/) / [Repo](https://github.com/AmiRaGaL/vitascan) |
+| Clinical Survival Analysis Dashboard | Survival analytics with Kaplan-Meier curves, Cox regression, statistical testing, and clinical insight reporting | Python, Streamlit, survival analysis | [Repo](https://github.com/AmiRaGaL/clinical-survival-analysis-dashboard) |
+| Cancer Subtype Classification | ML pipeline for preprocessing, feature filtering, classification, evaluation, and Streamlit inference | Python, scikit-learn, Streamlit | [Repo](https://github.com/AmiRaGaL/cancer-subtype-classification-tcga-brca) |
 
-## 📊 GitHub Dashboard
+## Experience highlights
+
+- Built production backend and mobile features at OurFreedom.AI using NestJS, TypeScript, MongoDB, React Native, Expo, AWS, Docker, and GitHub Actions.
+- Designed social graph, privacy, reporting, and moderation workflows, including follow, block, private profiles, post reporting, profile reporting, and DM reporting.
+- Improved profile and social graph load time by 60 percent using MongoDB aggregation pipelines, targeted projections, and optimized response shapes.
+- Built healthcare NLP pipelines over 2,636 de-identified clinical notes using PyTorch, Hugging Face, Clinical Longformer, DeepSeek-R1, LLaMA 3.2, active learning, and explainability methods.
+- Automated reporting, grading, web scraping, dashboards, and data workflows at UMass Lowell using Python, SQL, JavaScript, Google Apps Script, Docker, Selenium, Tableau, and Power BI.
+- Led enterprise API integration and automation work for Verizon systems at Infosys, including REST APIs, Oracle SQL, Kibana logging, production support, and team mentorship.
+
+## Technical skills
+
+**Languages:** Python, TypeScript, JavaScript, Java, SQL, C++, Bash  
+**Backend:** NestJS, Node.js, FastAPI, Flask, REST APIs, OpenAPI, JWT, Prisma  
+**Frontend and mobile:** React, Next.js, React Native, Expo, Zustand, HTML, CSS  
+**Data and AI:** PyTorch, Hugging Face, scikit-learn, LangChain, RAG, LLMs, pandas, NumPy, Captum, LIME  
+**Databases:** PostgreSQL, pgvector, MongoDB, MySQL, Oracle SQL, Supabase, Firebase  
+**Cloud and DevOps:** AWS EC2, AWS ECS, S3, Docker, Kubernetes, GitHub Actions, Jenkins, Vercel, Render, Linux  
+**Analytics:** Tableau, Power BI, Matplotlib, Seaborn, Plotly, Excel
+
+## GitHub activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AmiRaGaL&show_icons=true&include_all_commits=true&count_private=true&theme=default" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmiRaGaL&layout=compact&langs_count=8&theme=default" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AmiRaGaL&show_icons=true&include_all_commits=true&theme=default" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmiRaGaL&layout=compact&langs_count=8&theme=default" />
 </p>
 
-<p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=AmiRaGaL&theme=default" />
-</p>
+## Current interests
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmiRaGaL&theme=github" alt="Contribution Graph" />
-</p>
+I am interested in backend engineering, full-stack engineering, data engineering, AI applications, RAG systems, healthcare technology, and trust and safety platforms. I like building systems that are useful, measurable, and reliable.
 
----
+## Connect
 
-## 🛠 Tech Stack Snapshot
-
-**Languages**
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
-</p>
-
-**AI & Machine Learning**
-
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=chainlink&logoColor=white" />
-</p>
-
-**Data & Analytics**
-
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-</p>
-
-**Backend, DevOps & Cloud**
-
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-</p>
-
-**Specialties**
-
-<p>
-  <img src="https://img.shields.io/badge/LLMs-Transformers-important?style=flat-square" />
-  <img src="https://img.shields.io/badge/Healthcare%20NLP-Clinical%20Text-blueviolet?style=flat-square" />
-  <img src="https://img.shields.io/badge/Pega-Decisioning%20%7C%20CDH-199ED8?style=flat-square&logo=pegasystems&logoColor=white" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🔬 Thesis Project – Ordinal SDoMH Prediction with LLMs  
-Multi-label ordinal classification on opioid-related clinical notes using Clinical Longformer, DeepSeek 8B, and CORN heads.  
-`NLP` `Healthcare` `Transformers` `Explainability`  
-🔗 [SDoMH-Ordinal-LLM](https://www.proquest.com/docview/3257712907?sourcetype=Dissertations%20&%20Theses)
-
-### ⚡ PulseGuard – Predictive System Failure Monitoring  
-AIOps platform using LSTM + Prophet anomaly detection, AWS SNS alerts, Streamlit dashboards, and Grafana.  
-`Time Series` `AIOps` `MLOps`  
-🔗 [github.com/AmiRaGaL/PulseGuard](https://github.com/AmiRaGaL/PulseGuard)
-
-### 🧠 PRisma – AI Code Review Assistant  
-Inline PR review powered by DeepSeek-Coder and GitHub Actions using LangChain pipelines.  
-`DevTools` `LLM` `GitHub Actions`  
-🔗 [github.com/AmiRaGaL/PRisma](https://github.com/AmiRaGaL/PRisma)
-
-### 📚 Watermark Faculty Automation (UML Dean’s Office)  
-Automates AACSB/WMS data ingestion using Python, Selenium, GPT formatting, and dashboards.  
-`RPA` `ETL`  
-🔗 PRIVATE REPO
-
-### 🤖 Personal AI Knowledge Assistant  
-Local-first RAG system indexing PDFs, notes, and personal documents using Chroma + LangChain.  
-`RAG` `AI Assistant`  
-🔗 [github.com/AmiRaGaL/Personal-AI-Knowledge-Assistant](https://github.com/AmiRaGaL/MindVault.git)
-
----
-
-## 📬 Connect
-
-- Email: **devasai1259@gmail.com**  
-- LinkedIn: [Deva Sai Kumar Bheesetti](https://www.linkedin.com/in/deva-sai-kumar-bheesetti-34380812b)  
 - Portfolio: https://portfolio-deva-sai.vercel.app/
-
-> If my work inspires you or helps you, feel free to star a repo or reach out for collaboration!
+- LinkedIn: https://www.linkedin.com/in/deva-sai-kumar-bheesetti-34380812b/
+- Email: devasai1259@gmail.com
