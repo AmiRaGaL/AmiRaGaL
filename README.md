@@ -11,9 +11,6 @@ My work connects production software engineering with data and AI. I have built 
   <a href="https://www.linkedin.com/in/deva-sai-kumar-bheesetti-34380812b/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" />
   </a>
-  <a href="mailto:devasai1259@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" />
-  </a>
 </p>
 
 ## What I build
@@ -30,8 +27,8 @@ My work connects production software engineering with data and AI. I have built 
 | --- | --- | --- | --- |
 | Support RAG Evaluator | RAG retrieval, grounded answers, citations, refusal behavior, query logs, eval runs, and dashboard analytics | NestJS, Next.js, PostgreSQL, pgvector, Prisma, Docker | [Live](https://support-rag-evaluator.vercel.app/) / [Repo](https://github.com/AmiRaGaL/support-rag-evaluator) |
 | TrustOps Platform | Trust and safety operations with multi-tenant RBAC, moderation queues, report assignment, internal notes, and audit logs | NestJS, Next.js, PostgreSQL, Prisma, JWT, Docker | [Live](https://trustops-platform-web.vercel.app/) / [Repo](https://github.com/AmiRaGaL/trustops-platform) |
-| VitaScan | AI health triage, symptom intake, RAG-based guidance, contextual chat, red-flag handling, and health profiles | Next.js, React Native, NestJS, Supabase, PostgreSQL, pgvector, LangChain | [Live](https://vitascan-web-rho.vercel.app/) / [Repo](https://github.com/AmiRaGaL/vitascan) |
-| Clinical Survival Analysis Dashboard | Survival analytics with Kaplan-Meier curves, Cox regression, statistical testing, and clinical insight reporting | Python, Streamlit, survival analysis | [Repo](https://github.com/AmiRaGaL/clinical-survival-analysis-dashboard) |
+| VitaScan | AI health assistant with symptom intake, RAG-based guidance, contextual chat, user profiles, and usage controls | Next.js, React Native, NestJS, Supabase, PostgreSQL, pgvector, LangChain | [Live](https://vitascan-web-rho.vercel.app/) / [Repo](https://github.com/AmiRaGaL/vitascan) |
+| Clinical Survival Analysis Dashboard | Survival analytics with Kaplan-Meier curves, Cox regression, statistical testing, and visual reporting | Python, Streamlit, survival analysis | [Repo](https://github.com/AmiRaGaL/clinical-survival-analysis-dashboard) |
 | Cancer Subtype Classification | ML pipeline for preprocessing, feature filtering, classification, evaluation, and Streamlit inference | Python, scikit-learn, Streamlit | [Repo](https://github.com/AmiRaGaL/cancer-subtype-classification-tcga-brca) |
 
 ## Experience highlights
@@ -60,6 +57,10 @@ My work connects production software engineering with data and AI. I have built 
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmiRaGaL&layout=compact&langs_count=8&theme=default" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmiRaGaL&theme=github" alt="GitHub contribution activity graph" />
+</p>
+
 ## Current interests
 
 I am interested in backend engineering, full-stack engineering, data engineering, AI applications, RAG systems, healthcare technology, and trust and safety platforms. I like building systems that are useful, measurable, and reliable.
@@ -68,4 +69,3 @@ I am interested in backend engineering, full-stack engineering, data engineering
 
 - Portfolio: https://portfolio-deva-sai.vercel.app/
 - LinkedIn: https://www.linkedin.com/in/deva-sai-kumar-bheesetti-34380812b/
-- Email: devasai1259@gmail.com
